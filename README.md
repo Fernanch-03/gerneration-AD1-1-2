@@ -17,5 +17,6 @@
 - Estrutura de loop
 - Funções em python
 - Arrays e dicionários
+- Try Except
 - Manipulação de arquivos csv
 - organização de arquivos
